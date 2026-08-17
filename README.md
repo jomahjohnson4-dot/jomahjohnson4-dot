@@ -7,7 +7,7 @@
 
 ---
 
-<!-- ABOUT SECTION WITH LEFT ALIGNED WORKING GRAPHIC -->
+<!-- ABOUT SECTION -->
 <p align="left">
   <img src="https://media.giphy.com/media/qgQUGG4dbv5BLPP4PP/giphy.gif" align="left" width="140" style="margin-right: 20px;" alt="Coding Sticker" />
   <b>Hey there! I'm Johnson John Jomah</b><br><br>
@@ -20,25 +20,20 @@
 ---
 
 <!-- TECH STACK SECTION -->
-💻 Tech Stack
-
-<p align="left">
-  <!-- Row 1 -->
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/JAVASCRIPT-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
-  <img src="https://img.shields.io/badge/NODE.JS-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/NPM-CB3837?style=for-the-badge&logo=npm&logoColor=white" /><br>
-  <!-- Row 2 -->
-  <img src="https://img.shields.io/badge/VITE-646CFF?style=for-the-badge&logo=vite&logoColor=white" />
-  <img src="https://img.shields.io/badge/LINUX-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-  <img src="https://img.shields.io/badge/UBUNTU-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" />
-  <img src="https://img.shields.io/badge/CISCO-1D69CC?style=for-the-badge&logo=cisco&logoColor=white" /><br>
-  <!-- Row 3 -->
-  <img src="https://img.shields.io/badge/GIT-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" />
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=ffffff&height=40&text=TECHSTACK&fontSize=20&fontColor=000000&stroke=000000&strokeWidth=1" width="100%" />
 </p>
+
+<div align="center">
+
+| Category | Technologies |
+| :--- | :--- |
+| **Frontend & Scripting** | <img src="https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5&logoColor=white" /> <img src="https://img.shields.io/badge/CSS3-000000?style=for-the-badge&logo=css3&logoColor=white" /> <img src="https://img.shields.io/badge/JAVASCRIPT-000000?style=for-the-badge&logo=javascript&logoColor=yellow" /> |
+| **Backend & Runtimes** | <img src="https://img.shields.io/badge/NODE.JS-000000?style=for-the-badge&logo=nodedotjs&logoColor=green" /> <img src="https://img.shields.io/badge/C%2B%2B-000000?style=for-the-badge&logo=cplusplus&logoColor=blue" /> |
+| **Development & Tools** | <img src="https://img.shields.io/badge/VITE-000000?style=for-the-badge&logo=vite&logoColor=purple" /> <img src="https://img.shields.io/badge/NPM-000000?style=for-the-badge&logo=npm&logoColor=red" /> |
+| **Environment & Networks** | <img src="https://img.shields.io/badge/LINUX-000000?style=for-the-badge&logo=linux&logoColor=white" /> <img src="https://img.shields.io/badge/UBUNTU-000000?style=for-the-badge&logo=ubuntu&logoColor=orange" /> <img src="https://img.shields.io/badge/CISCO-000000?style=for-the-badge&logo=cisco&logoColor=lightblue" /> <img src="https://img.shields.io/badge/GIT-000000?style=for-the-badge&logo=git&logoColor=red" /> |
+
+</div>
 
 ---
 
@@ -75,7 +70,7 @@
 
 <!-- CONTRIBUTIONS SECTION -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=111111&height=50&text=CONTRIBUTIONS&fontSize=22&fontColor=ffffff&stroke=333333&strokeWidth=1" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=ffffff&height=40&text=CONTRIBUTIONS&fontSize=20&fontColor=000000&stroke=000000&strokeWidth=1" width="100%" />
 </p>
 
 <p align="center">
