@@ -43,7 +43,7 @@
 ---
 
 <!-- FEATURED PROJECTS -->
-#📌 Featured Technical Projects
+📌 Featured Technical Projects
 
 <p align="left">
   <img src="https://img.shields.io/badge/%F0%9F%9A%80%20UI%20STUDIO-Dark%20themed%20interactive%20dashboard%20%26%20web%20components-101010?style=for-the-badge&logo=javascript&logoColor=yellow" /><br>
