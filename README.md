@@ -1,4 +1,4 @@
-<!-- TOP BANNER -->
+
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=000000&height=220&text=I%20AM%20TECH%20BILLIONAIRE&fontSize=38&fontColor=ffffff&stroke=222222&strokeWidth=2&animation=fadeIn" width="100%" alt="Header Banner" />
 </p>
@@ -7,7 +7,6 @@
 
 ---
 
-<!-- ABOUT SECTION -->
 <p align="left">
   <img src="https://media.giphy.com/media/qgQUGG4dbv5BLPP4PP/giphy.gif" align="left" width="140" style="margin-right: 20px;" alt="Coding Sticker" />
   <b>Hey there! I'm Johnson John Jomah</b><br><br>
