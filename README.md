@@ -70,8 +70,12 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jomahjohnson4-dot&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jomahjohnson4-dot&layout=compact&theme=tokyonight&hide_border=true&langs_count=7&bg_color=0D1117" alt="Top Languages" />
+  <a href="https://github.com/jomahjohnson4-dot">
+    <img src="https://github-readme-stats.vercel.app/api?username=jomahjohnson4-dot&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="GitHub Stats" />
+  </a>
+  <a href="https://github.com/jomahjohnson4-dot">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jomahjohnson4-dot&layout=compact&theme=tokyonight&hide_border=true&langs_count=7&bg_color=0D1117" alt="Top Languages" />
+  </a>
 </p>
 
 ---
