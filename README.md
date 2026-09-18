@@ -24,16 +24,16 @@
 
 <p align="center">
   <a href="https://github.com/jomahjohnson4-dot">
-    <img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/GITHUB-%40jomahjohnson4--dot-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
   <a href="https://www.instagram.com/iits_johnson7?stkn=MXNjem4wcjFzcjd6dg==">
-    <img src="https://img.shields.io/badge/INSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+    <img src="https://img.shields.io/badge/INSTAGRAM-%40iits__johnson7-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
   <a href="https://www.tiktok.com/@cyberwarrior397?_r=1&_t=ZS-99q8NYYw8wK">
-    <img src="https://img.shields.io/badge/TIKTOK-000000?style=for-the-badge&logo=tiktok&logoColor=white" />
+    <img src="https://img.shields.io/badge/TIKTOK-%40cyberwarrior397-000000?style=for-the-badge&logo=tiktok&logoColor=white" />
   </a>
   <a href="mailto:jomahjohnson4@gmail.com">
-    <img src="https://img.shields.io/badge/EMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/EMAIL-jomahjohnson4%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
 
