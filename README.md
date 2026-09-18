@@ -1,4 +1,3 @@
-
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=000000&height=220&text=I%20AM%20TECH%20BILLIONAIRE&fontSize=38&fontColor=ffffff&stroke=222222&strokeWidth=2&animation=fadeIn" width="100%" alt="Header Banner" />
 </p>
@@ -18,28 +17,12 @@
 
 ---
 
-<!-- TECH STACK SECTION -->
+<!-- FEATURED PROJECTS -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=ffffff&height=40&text=TECHSTACK&fontSize=20&fontColor=000000&stroke=000000&strokeWidth=1" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=ffffff&height=40&text=FEATURED%20PROJECTS&fontSize=20&fontColor=000000&stroke=000000&strokeWidth=1" width="100%" />
 </p>
 
-<div align="center">
-
-| Category | Technologies |
-| :--- | :--- |
-| **Frontend & Scripting** | <img src="https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5&logoColor=white" /> <img src="https://img.shields.io/badge/CSS3-000000?style=for-the-badge&logo=css3&logoColor=white" /> <img src="https://img.shields.io/badge/JAVASCRIPT-000000?style=for-the-badge&logo=javascript&logoColor=yellow" /> <img src="https://img.shields.io/badge/TYPESCRIPT-000000?style=for-the-badge&logo=typescript&logoColor=blue" /> |
-| **Backend & Runtimes** | <img src="https://img.shields.io/badge/NODE.JS-000000?style=for-the-badge&logo=nodedotjs&logoColor=green" /> <img src="https://img.shields.io/badge/C-000000?style=for-the-badge&logo=c&logoColor=lightblue" /> <img src="https://img.shields.io/badge/C%2B%2B-000000?style=for-the-badge&logo=cplusplus&logoColor=blue" /> <img src="https://img.shields.io/badge/SWIFT-000000?style=for-the-badge&logo=swift&logoColor=orange" /> |
-| **Development & Tools** | <img src="https://img.shields.io/badge/VITE-000000?style=for-the-badge&logo=vite&logoColor=purple" /> <img src="https://img.shields.io/badge/NPM-000000?style=for-the-badge&logo=npm&logoColor=red" /> <img src="https://img.shields.io/badge/DASH-000000?style=for-the-badge&logo=plotly&logoColor=teal" /> |
-| **Environment & Networks** | <img src="https://img.shields.io/badge/ARCH%20LINUX-000000?style=for-the-badge&logo=arch-linux&logoColor=lightblue" /> <img src="https://img.shields.io/badge/UBUNTU-000000?style=for-the-badge&logo=ubuntu&logoColor=orange" /> <img src="https://img.shields.io/badge/CISCO-000000?style=for-the-badge&logo=cisco&logoColor=lightblue" /> <img src="https://img.shields.io/badge/GIT-000000?style=for-the-badge&logo=git&logoColor=red" /> |
-
-</div>
-
----
-
-<!-- FEATURED PROJECTS -->
-📌 Featured Technical Projects
-
-<p align="left">
+<p align="center">
   <img src="https://img.shields.io/badge/%F0%9F%9A%80%20UI%20STUDIO-Dark%20themed%20interactive%20dashboard%20%26%20web%20components-101010?style=for-the-badge&logo=javascript&logoColor=yellow" /><br>
   <img src="https://img.shields.io/badge/%E2%9A%A1%20MINES%20ENGINE-Backend%20game%20logic%20%26%20custom%20hashing-101010?style=for-the-badge&logo=nodedotjs&logoColor=green" /><br>
   <img src="https://img.shields.io/badge/%F0%9F%93%A1%20NETWORKING%20LAB-VLAN%20routing%20%26%20Cisco%20Packet%20Tracer%20setup-101010?style=for-the-badge&logo=cisco&logoColor=blue" />
@@ -47,31 +30,60 @@
 
 ---
 
-<!-- CONNECT SECTION -->
+<!-- TECH STACK SECTION -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=111111&height=50&text=CONNECT&fontSize=22&fontColor=ffffff&stroke=333333&strokeWidth=1" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=ffffff&height=40&text=TECH%20STACK&fontSize=20&fontColor=000000&stroke=000000&strokeWidth=1" width="100%" />
 </p>
 
 <p align="center">
-  <a href="https://github.com/jomahjohnson4-dot">
-    <img src="https://img.shields.io/badge/GITHUB-000000?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  <a href="mailto:your-email@gmail.com">
-    <img src="https://img.shields.io/badge/GMAIL-000000?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
+  <b>Frontend Development</b><br><br>
+  <img src="https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-000000?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/JAVASCRIPT-000000?style=for-the-badge&logo=javascript&logoColor=yellow" />
+  <img src="https://img.shields.io/badge/TYPESCRIPT-000000?style=for-the-badge&logo=typescript&logoColor=blue" />
+  <img src="https://img.shields.io/badge/VITE-000000?style=for-the-badge&logo=vite&logoColor=purple" />
 </p>
 
-> *"In software development, clean architecture isn't just about making code look good—it's about building systems that withstand complex runtime conditions."*
+<p align="center">
+  <b>Backend & Runtimes</b><br><br>
+  <img src="https://img.shields.io/badge/NODE.JS-000000?style=for-the-badge&logo=nodedotjs&logoColor=green" />
+  <img src="https://img.shields.io/badge/C-000000?style=for-the-badge&logo=c&logoColor=lightblue" />
+  <img src="https://img.shields.io/badge/C%2B%2B-000000?style=for-the-badge&logo=cplusplus&logoColor=blue" />
+  <img src="https://img.shields.io/badge/SWIFT-000000?style=for-the-badge&logo=swift&logoColor=orange" />
+  <img src="https://img.shields.io/badge/DASH-000000?style=for-the-badge&logo=plotly&logoColor=teal" />
+</p>
 
-> *"Building backend logic from scratch teaches you one critical thing: you don't truly understand performance until you process real-world data under heavy load."*
+<p align="center">
+  <b>Tools, Environment & Networks</b><br><br>
+  <img src="https://img.shields.io/badge/NPM-000000?style=for-the-badge&logo=npm&logoColor=red" />
+  <img src="https://img.shields.io/badge/ARCH%20LINUX-000000?style=for-the-badge&logo=arch-linux&logoColor=lightblue" />
+  <img src="https://img.shields.io/badge/UBUNTU-000000?style=for-the-badge&logo=ubuntu&logoColor=orange" />
+  <img src="https://img.shields.io/badge/CISCO-000000?style=for-the-badge&logo=cisco&logoColor=lightblue" />
+  <img src="https://img.shields.io/badge/GIT-000000?style=for-the-badge&logo=git&logoColor=red" />
+</p>
 
 ---
 
-<!-- CONTRIBUTIONS SECTION -->
+<!-- GITHUB ANALYTICS -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=ffffff&height=40&text=CONTRIBUTIONS&fontSize=20&fontColor=000000&stroke=000000&strokeWidth=1" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=ffffff&height=40&text=GITHUB%20ANALYTICS&fontSize=20&fontColor=000000&stroke=000000&strokeWidth=1" width="100%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=jomahjohnson4-dot&theme=github-compact&bg_color=0d1117&color=58a6ff&line=38d399&point=ffffff&hide_border=true" width="100%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=jomahjohnson4-dot&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jomahjohnson4-dot&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages" />
 </p>
+
+---
+
+<!-- CURRENT FOCUS & INTERESTS -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=ffffff&height=40&text=CURRENT%20FOCUS%20%26%20INTERESTS&fontSize=20&fontColor=000000&stroke=000000&strokeWidth=1" width="100%" />
+</p>
+
+```json
+{
+  "focus": "Building high-performance backend systems & scalable web tools",
+  "learning": ["Advanced System Architecture", "Low-level Network Security"],
+  "askMeAbout": ["Full-Stack Development", "Linux Environments", "C++ & Systems Programming"]
+}
