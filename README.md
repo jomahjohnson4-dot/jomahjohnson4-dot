@@ -1,8 +1,8 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=000000&height=220&text=I%20AM%20TECH%20BILLIONAIRE&fontSize=38&fontColor=ffffff&stroke=222222&strokeWidth=2&animation=fadeIn" width="100%" alt="Header Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=220&text=Johnson%20John%20Jomah&fontSize=32&fontColor=ffffff&animation=fadeIn&stroke=222222&strokeWidth=2" width="100%" alt="Header Banner" />
 </p>
 
-<h3 align="center">Know About Me</h3>
+<h3 align="center">FULL-STACK SOFTWARE & SYSTEMS ENGINEER</h3>
 
 ---
 
