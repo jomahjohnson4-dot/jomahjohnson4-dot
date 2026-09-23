@@ -1,8 +1,6 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=220&text=Johnson%20John%20Jomah&fontSize=32&fontColor=ffffff&animation=fadeIn&stroke=222222&strokeWidth=2" width="100%" alt="Header Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=220&text=Johnson%20John%20Jomah&fontSize=30&fontColor=ffffff&desc=FULL-STACK%20%26%20SYSTEMS%20ENGINEER&descSize=16&descColor=38d399&animation=fadeIn&stroke=222222&strokeWidth=2" width="100%" alt="Header Banner" />
 </p>
-
-<h3 align="center">FULL-STACK SOFTWARE & SYSTEMS ENGINEER</h3>
 
 ---
 
